@@ -1,17 +1,27 @@
-## Nextjs Curso Práctico | Framework de Server Side Rendering basado en React
+## Nextjs Curso Práctico | Framework de Server Side Rendering basado en React:
 
 - https://www.youtube.com/watch?v=Tn6QYliFBcs
 
 ---
 
-## Screenshots
+## Live demo:
+
+- <a href="https://nextjsfaztcode.now.sh/" target="_blank">Next Js Fazt Code Live Demo</a>
+
+---
+
+## Screenshots:
 
 <p align="center">
+    <a href="https://nextjsfaztcode.now.sh/" target="_blank">
         <img src="Screenshot_Home.png" alt="Next JS - Jonatandb"/>
+    </a>
 </p>
 
 <p align="center">
+    <a href="https://nextjsfaztcode.now.sh/" target="_blank">
         <img src="Screenshot_UserProfile.png" alt="Next JS - Jonatandb"/>
+    </a>
 </p>
 
 ---
@@ -75,6 +85,10 @@ getInitialProps
 vscode package.json String does not match the pattern
 
 - https://stackoverflow.com/questions/48694816/vscode-package-json-string-does-not-match-the-pattern
+
+Deployment on Vercel
+
+- https://nextjs.org/docs/deployment
 
 ---
 
