@@ -1,7 +1,7 @@
 {
   "name": "nextjsfaztcode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Next JS Practice Project",
   "main": "index.js",
   "scripts": {
     "dev": "next",
@@ -15,7 +15,7 @@
     "Jonatandb",
     "Fazt Code"
   ],
-  "author": "",
+  "author": "jonatandb@gmail.com",
   "license": "ISC",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
