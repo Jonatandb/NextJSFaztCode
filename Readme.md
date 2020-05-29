@@ -6,7 +6,7 @@
 
 ## Live demo:
 
-- <a href="https://nextjsfaztcode.jonatandb.now.sh/" target="_blank">Next Js Fazt Code Live Demo</a>
+- <a href="https://nextjsfaztcode.jonatandb.now.sh/" target="_blank">Next Js Fazt Code</a> Live Demo
 
 ---
 
@@ -43,7 +43,7 @@
 3 - Navegar a:
 
 <pre>
-            http://localhost:3000
+ http://localhost:3000
 </pre>
 
 ---
