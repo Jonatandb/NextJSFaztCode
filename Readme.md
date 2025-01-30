@@ -6,20 +6,20 @@
 
 ## Live demo:
 
-- <a href="https://nextjsfaztcode.jonatandb.now.sh/" target="_blank">Next Js Fazt Code</a> Live Demo
+- <a href="https://nextjsfaztcode.vercel.app" target="_blank">Next Js Fazt Code</a> Live Demo
 
 ---
 
 ## Screenshots:
 
 <p align="center">
-    <a href="https://nextjsfaztcode.jonatandb.now.sh/" target="_blank">
+    <a href="https://nextjsfaztcode.vercel.app" target="_blank">
         <img src="Screenshot_Home.png" alt="Next JS - Jonatandb"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://nextjsfaztcode.jonatandb.now.sh/" target="_blank">
+    <a href="https://nextjsfaztcode.vercel.app" target="_blank">
         <img src="Screenshot_UserProfile.png" alt="Next JS - Jonatandb"/>
     </a>
 </p>
