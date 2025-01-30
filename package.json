@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Next JS Practice Project",
   "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -19,8 +22,9 @@
   "license": "ISC",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.4.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "14.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   }
 }
+

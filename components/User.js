@@ -6,7 +6,8 @@ const User = ({ data: users }) => {
       {users.map((u) => (
         <li
           key={u.id}
-          className="list-group-item list-group-item-action d-flex justify-content-between alig-items-center"
+          className="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
+          role="button"
           onClick={(e) => Router.push("/users/[id]", `/users/${u.id}`)}
         >
           <div>
